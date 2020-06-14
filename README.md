@@ -17,7 +17,7 @@ npm i --save-dev @veryard/spacer
 Include module at your application
 
 ```javascript
-const Spacer = require('@editorjs/spacer');
+const Spacer = require('@veryard/spacer');
 ```
 
 ### Download to your project's source dir

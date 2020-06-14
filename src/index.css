@@ -1,9 +1,12 @@
 .ce-spacer {
     line-height: 1.6em;
     width: 100%;
+    text-align: center;
 }
 
 .ce-spacer:before {
     display: inline-block;
+    content: "spacer";
     height: 30px;
+    letter-spacing: 0.2em;
 }

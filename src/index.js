@@ -89,7 +89,7 @@ class Spacer {
    */
   static get toolbox() {
     return {
-      icon: `<svg width="19" height="10" viewBox="0 0 15.7 10" style="enable-background:new 0 0 15.7 10;" xml:space="preserve"><path d="M13.6,0H7.9h0H2.1C1.4,0,0.9,0.6,0.9,1.3s0.6,1.3,1.3,1.3h5.7h0h5.7c0.7,0,1.3-0.6,1.3-1.3S14.3,0,13.6,0z" transform="translate(0 7)"></path></svg>`,
+      icon: `<svg width="19" height="10" viewBox="0 0 15.7 10" xml:space="preserve"><path d="M13.6,0H7.9h0H2.1C1.4,0,0.9,0.6,0.9,1.3s0.6,1.3,1.3,1.3h5.7h0h5.7c0.7,0,1.3-0.6,1.3-1.3S14.3,0,13.6,0z" transform="translate(0 7)"></path></svg>`,
       title: 'Spacer'
     };
   }

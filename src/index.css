@@ -1,0 +1,9 @@
+.ce-spacer {
+    line-height: 1.6em;
+    width: 100%;
+}
+
+.ce-spacer:before {
+    display: inline-block;
+    height: 30px;
+}
